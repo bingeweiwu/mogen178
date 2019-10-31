@@ -1,0 +1,13 @@
+.round {
+    background-color:#ccc;
+    color: white;
+    width: 500px;
+    padding: 10px;
+    height:220px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    behavior: url(css/ie-css3.htc);
+    overflow: hidden;
+    border: none;
+}
+

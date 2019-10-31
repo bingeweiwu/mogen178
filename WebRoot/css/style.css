@@ -1,0 +1,155 @@
+.property{
+	float:left;
+	margin-top:4px;
+	margin-left:2px;
+	border: 1px #000 solid;
+	width:200px;
+	height:30px;
+	background-color:white;
+	overflow: hidden;
+	text-decoration:none;
+	background-image: url("");
+}
+.property p{
+	margin-top:5px;
+}
+
+.ud{	
+	width:300px;
+	height:410px; 
+	border: 1px solid black;
+	background-color: #DBDBDB;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    behavior: url(css/ie-css3.htc);
+    overflow: hidden;
+    margin-left:38%;
+    margin-top:-50px;
+    position: fixed;
+
+	
+}
+
+
+.round2{
+	background-color:#F0F0F0;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    behavior: url(css/ie-css3.htc);
+    overflow: hidden;
+    border: none;
+    text-align:center;
+    margin-top: 5px;
+    
+	}
+.roundlist{
+	background-color:#fff;
+	-webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    behavior: url(css/ie-css3.htc);
+    overflow: hidden;
+    border: none;
+    text-align:center;
+    width:200px;
+    height:40px;
+	}
+.left_triangle{
+	margin-top:100px;
+	margin-left:180px;
+	float:left;
+	font-size:80px;
+	color:#fff;
+}
+.down_triangle{
+	color: white;
+	font-size:30px;
+	margin-left:10%; 
+	margin-top:-1%;
+	}
+.list_title{
+	float:left;
+	margin-top:4px;
+	margin-left:2px;
+	border: 1px #000 solid;
+	width:200px;
+	height:30px;
+	background-color:#055F89;
+	overflow: hidden;
+	font-weight:bold;
+	color:white;
+	text-decoration:none;
+	background-image: url("");
+}
+.list_title p{
+	margin-top:5px;
+	}
+
+.btn{
+	width:100px;
+	height:30px; 
+	margin-top:5px;
+}
+.btnClose{
+	width:70px;
+	height:25px;
+	background-color: #FF7513;
+	text-align: center;
+	
+}
+.btnSubmit{
+	color:white;
+	width:100px;
+	height:30px; 
+	margin-top:5px;
+	background-color: #055F89;
+	font-weight: bold;
+	border:1px solid black;
+	margin-left:-85%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.round {
+    background-color:#ccc;
+    color: white;
+    width: 500px;
+    padding: 10px;
+    height:220px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    behavior: url(css/ie-css3.htc);
+    overflow: hidden;
+    border: none;
+}
+
+
